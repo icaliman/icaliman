@@ -1,6 +1,6 @@
 # Ion Căliman
 
-Founder of [XLITE](https://xlite.dev), a small development team in Moldova building web, mobile and AI products for clients worldwide. Most of my own code is Laravel and [Filament](https://filamentphp.com), and most of it is open source.
+Founder of [XLITE](https://xlite.dev), a small development team in Moldova building web, mobile and AI products for clients worldwide. Most of my own code is Laravel and [Filament](https://filamentphp.com), lately with a lot of TypeScript around coding agents, and most of it is open source.
 
 ## What I am building
 
@@ -35,6 +35,12 @@ Impersonation, linked sub-accounts and developer logins, with an audit log.
 
 <p align="center"><a href="https://github.com/packstub">All Packstub repositories</a> &middot; <a href="https://packstub.dev/plugins">Plugin catalogue</a> &middot; <a href="https://packstub.dev/guides">Guides</a></p>
 
+**[reelson](https://github.com/reelson/reelson)** turns a prompt into a finished, branded demo video of a web app: two Agent Skills and a CLI for Claude Code, Codex or any agent that reads skills. A Playwright walkthrough with a human-paced cursor, then a HyperFrames composition with intro, callouts, zooms and outro. The same prompt re-creates the video after a UI change.
+
+<a href="https://github.com/reelson/reelson"><img src="https://github.com/reelson/reelson/releases/download/demo/demo.webp" alt="A reelson demo video: branded intro, a task added and dragged to Done in a zoom, outro" width="100%"></a>
+
+<p align="center"><a href="https://github.com/reelson/reelson">Repository</a> &middot; <a href="https://reelson.github.io/reelson/">Documentation</a> &middot; <a href="https://www.npmjs.com/package/reelson">npm</a> &middot; <a href="https://youtu.be/AkEeA9QAUy4">Launch video</a></p>
+
 **[Orderflux](https://orderflux.io)** brings Shopify, WooCommerce and phone orders into one pipeline, with one stock across warehouses, local couriers with cash on delivery and invoicing per company.
 
 ## Open source at XLITE
@@ -47,7 +53,7 @@ Impersonation, linked sub-accounts and developer logins, with an audit log.
 
 - [xlite.dev/blog](https://xlite.dev/blog): Laravel, Filament and multi-tenancy guides from client work.
 - [packstub.dev/guides](https://packstub.dev/guides): technical guides around the plugins.
-- [YouTube](https://www.youtube.com/@packstub): short demos of each plugin.
+- [YouTube](https://www.youtube.com/@packstub): short demos of each plugin, recorded and edited with reelson.
 
 ## Elsewhere
 
