@@ -4,7 +4,7 @@ Founder of [XLITE](https://xlite.dev), a small development team in Moldova build
 
 ## What I am building
 
-**[Packstub](https://github.com/packstub)** is a catalogue of Filament plugins and the Laravel packages behind them: an AI assistant with an MCP server, session replay, a workflow builder, a form builder, Kanban, ratings, themes, and a paid SaaS stack for tenancy, teams and feature plans. Open source under MIT where it can be, sold through Composer where it cannot. Browse them on [packstub.dev](https://packstub.dev) or follow the numbers on [stats.packstub.dev](https://stats.packstub.dev).
+**[Packstub](https://github.com/packstub)** is a set of open-source Filament plugins and the Laravel packages behind them, MIT on GitHub and Packagist: an AI assistant with an MCP server, session replay, a workflow builder, a form builder, in-panel calls, teams and feature plans, a spreadsheet editor, Gantt and Kanban boards, ratings and themes. Pro plugins such as Filament Tenancy are there when a project needs more, installed with the same `composer require`. Browse them on [packstub.dev](https://packstub.dev) or follow the numbers on [stats.packstub.dev](https://stats.packstub.dev).
 
 <table>
 <tr>
@@ -15,7 +15,7 @@ An in-panel AI assistant and an MCP server from one tool list.
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/packstub/filament-session-replay"><img src="https://raw.githubusercontent.com/packstub/art/main/filament-session-replay/thumbnail.jpg" alt="Filament Session Replay" width="100%"></a>
-<b><a href="https://github.com/packstub/filament-session-replay">Filament Session Replay</a></b> <sub><code>beta</code></sub><br>
+<b><a href="https://github.com/packstub/filament-session-replay">Filament Session Replay</a></b><br>
 Watch what users did in your panel, errors and rage clicks on the timeline.
 </td>
 </tr>
@@ -41,7 +41,7 @@ Impersonation, linked sub-accounts and developer logins, with an audit log.
 
 <p align="center"><a href="https://github.com/reelson/reelson">Repository</a> &middot; <a href="https://reelson.github.io/reelson/">Documentation</a> &middot; <a href="https://www.npmjs.com/package/reelson">npm</a> &middot; <a href="https://youtu.be/AkEeA9QAUy4">Launch video</a></p>
 
-**[Orderflux](https://orderflux.io)** brings Shopify, WooCommerce and phone orders into one pipeline, with one stock across warehouses, local couriers with cash on delivery and invoicing per company.
+**[Orderflux](https://github.com/orderflux)** brings Shopify, WooCommerce and phone orders into one pipeline, with one stock across warehouses, local couriers with cash on delivery and invoicing per company.
 
 ## Open source at XLITE
 
