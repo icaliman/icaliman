@@ -41,7 +41,7 @@ Impersonation, linked sub-accounts and developer logins, with an audit log.
 
 <p align="center"><a href="https://github.com/reelson/reelson">Repository</a> &middot; <a href="https://reelson.github.io/reelson/">Documentation</a> &middot; <a href="https://www.npmjs.com/package/reelson">npm</a> &middot; <a href="https://youtu.be/AkEeA9QAUy4">Launch video</a></p>
 
-**[Orderflux](https://github.com/orderflux)** brings Shopify, WooCommerce and phone orders into one pipeline, with one stock across warehouses, local couriers with cash on delivery and invoicing per company.
+**[Orderflux](https://orderflux.io)** brings Shopify, WooCommerce and phone orders into one pipeline, with one stock across warehouses, local couriers with cash on delivery and invoicing per company.
 
 ## Open source at XLITE
 
